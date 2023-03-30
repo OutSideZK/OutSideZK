@@ -1,3 +1,4 @@
+<div align="center">
 <!-- dynamic typing effect 动态打字效果 -->
 
 <div align="center">
@@ -8,8 +9,7 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    </a>
-  </div>
+  <br>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
