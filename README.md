@@ -1,7 +1,7 @@
-  <!-- dynamic typing effect 动态打字效果 -->
+<!-- dynamic typing effect 动态打字效果 -->
 
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+<div align="center">
+    <a href="http://1.13.18.102/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);君不见黄河之水天上来，奔流到海不复回&center=true&size=23" alt="Typing SVG" />
     </a>
   </div>
@@ -46,17 +46,13 @@
 
 <tr><td>
 
-<!--
-**OutSideZK/OutSideZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ########################################## 分割 ########################################## -->
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-Here are some ideas to get you started:
+<div align="center" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Github-Stats-Terminal 终端风格信息 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
+
+<!-- Quotes 名人名言 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
