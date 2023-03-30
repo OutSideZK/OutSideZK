@@ -41,9 +41,6 @@
 
 <div align="center" >
 
-<!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/OutSideZK/Github-Stats-Terminal/github_stats.svg"/><br>
-
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
     <!-- GitHub 数据统计 -->
