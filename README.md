@@ -12,7 +12,7 @@
   <br>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/OutSideZK/OutSideZK/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
 
 #  🙋 Hello
