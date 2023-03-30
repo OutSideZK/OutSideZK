@@ -30,6 +30,21 @@
 
 <tr>
 <td>
+  
+### 🏢 Work Experience
+
+<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+
+- [南京颖图电子技术有限公司]([https://www.nio.cn/](https://www.ytxvision.cn/)) &emsp; 📌 2018-05-01 —— Now
+
+  - 工作岗位：软件经理
+  - 工作内容：WIndows软件开发
+  - 工作方向：机器视觉
+
+</td>
+</tr>
+
+<tr><td>
 
 <!--
 **OutSideZK/OutSideZK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
