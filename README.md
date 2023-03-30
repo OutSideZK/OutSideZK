@@ -8,11 +8,11 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <img src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/assets/images/coding.gif" />
   <br>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
 
 #  🙋 Hello
@@ -29,8 +29,6 @@
   
 ### 🏢 Work Experience
 
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
-
 - [南京颖图电子技术有限公司]([https://www.nio.cn/](https://www.ytxvision.cn/)) &emsp; 📌 2018-05-01 —— Now
 
   - 工作岗位：软件经理
@@ -39,12 +37,12 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- Github-Stats-Terminal 终端风格信息 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/Github-Stats-Terminal/github_stats.svg"/><br>
+<img src="https://cdn.jsdelivr.net/gh/OutSideZK/Github-Stats-Terminal/github_stats.svg"/><br>
 
 <!-- Quotes 名人名言 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
@@ -60,4 +58,4 @@
     </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/assets/images/hr.gif" />
