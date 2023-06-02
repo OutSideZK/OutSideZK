@@ -16,7 +16,6 @@
 </div>
 
 <!-- 提交折线图 -->
-  ###[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OutSideZK&bg_color=000000&color=4ce1de&line=5868df&point=bb5871&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OutSideZK&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
