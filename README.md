@@ -14,22 +14,6 @@
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <img src="https://github.com/OutSideZK/OutSideZK/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
-
-<!-- 提交折线图 -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OutSideZK&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
-#  🙋 Hello
-    
-<!-- About me 关于我 -->
-### 🤺 About Me
-
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/assets/images/hi.gif" />
-
-</td></tr>
-
-<tr>
-<td>
   
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/assets/images/hr.gif" />
