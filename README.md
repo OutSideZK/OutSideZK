@@ -31,15 +31,6 @@
 <tr>
 <td>
   
-### 🏢 Work Experience
-
-- [南京颖图电子技术有限公司]([https://www.nio.cn/](https://www.ytxvision.cn/)) &emsp; 📌 2018-05-01 —— Now
-
-  - 工作岗位：软件经理
-  - 工作内容：WIndows软件开发
-  - 工作方向：机器视觉
-
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/OutSideZK/OutSideZK/assets/images/hr.gif" />
 
